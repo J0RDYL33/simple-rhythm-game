@@ -1,0 +1,3 @@
+﻿  JC_GameWorld.cpp
+C:\Users\J0RDYL33\source\repos\RhythmGame\RhythmGame\JC_GameWorld.cpp(30,13): warning C4244: 'argument': conversion from 'double' to 'Uint32', possible loss of data
+  RhythmGame.vcxproj -> C:\Users\J0RDYL33\source\repos\RhythmGame\Debug\RhythmGame.exe
